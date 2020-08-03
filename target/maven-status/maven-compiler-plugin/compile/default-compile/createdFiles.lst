@@ -1,0 +1,7 @@
+com\todo\list\service\TodoService.class
+com\todo\list\controller\TodoController.class
+com\todo\list\domain\Todo$TodoBuilder.class
+com\todo\list\service\TodoServiceImpl.class
+com\todo\list\TodolistApplication.class
+com\todo\list\domain\Todo.class
+com\todo\list\repository\TodoRepository.class
